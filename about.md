@@ -23,5 +23,7 @@ Source: [http://www.michaelparenti.org/](http://www.michaelparenti.org/)
 
 
 
-<div style="text-align: center"><img src="assets/parenti.jpg" /></div>
+<p align="center">
+<img src="https://i.imgur.com/D0443cn.png"></p>
+
 
