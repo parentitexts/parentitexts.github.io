@@ -4,7 +4,7 @@
   color: var(--site-title-color);
 }
 
-.site-nav {
+.site-na:page-link {
   color: var(--site-nav)
 }
 
@@ -23,6 +23,10 @@ color: var(--link-base-color);
 
 a:visited {
   color: var(--link-visited-color)
+}
+
+a:page-link {
+  color: var(--site-nav)
 }
 
 a:hover {
