@@ -4,6 +4,7 @@ html, html[data-theme="light"] {
     --link-hover-color: hsl(0, 48%, 47%);
     --link-visited-color: hsl(0, 48%, 43%);
     --link-base-color: #000;
+    --site-nav: #000;
     }
     
     html[data-theme="dark"] {
@@ -12,6 +13,7 @@ html, html[data-theme="light"] {
         --link-hover-color: rgb(179, 63, 63);
         --link-visited-color: hsl(0, 48%, 43%);
         --link-base-color: #000;
+        --site-nav: #000;
     }
     
     @media (prefers-color-scheme: dark) {
@@ -22,6 +24,7 @@ html, html[data-theme="light"] {
             --link-hover-color: #c23737;
             --link-visited-color: #a23939;
             --link-base-color: #ffffff;
+            --site-nav: #fff;
         }
     
         html[data-theme="light"] {
@@ -31,5 +34,6 @@ html, html[data-theme="light"] {
             --link-hover-color: ##c23737;
             --link-visited-color: #a13838;
             --link-base-color: #ffffff;
+            --site-nav: #fff;
     }
     }
