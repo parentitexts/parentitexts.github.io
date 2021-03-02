@@ -1,3 +1,5 @@
 # READ ME
 
-This is a place to store blah blah blah. 
+Ongoing effort to transcribe speeches given by Michael Parenti.
+Website can be accessed at parentitexts.github.io 
+
