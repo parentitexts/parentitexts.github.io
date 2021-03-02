@@ -9,7 +9,7 @@ Source: http://www.michaelparenti.org/
 **Michael Parenti is an internationally known award-winning author and lecturer. He is one of the nation’s leading progressive political analysts. His highly informative and entertaining books and talks have reached a wide range of audiences in North America and abroad.**
 
 
-"A prolific author, a charismatic speaker, and a regular guest on radio and television talk shows, Parenti communicates his message in an accessible, provocative, and historically informed style that is unrivaled among fellow progressive activists and thinkers." — Aurora Online, January 2004
+"A prolific author, a charismatic speaker, and a regular guest on radio and television talk shows, Parenti communicates his message in an accessible, provocative, and historically informed style that is unrivaled among fellow progressive activists and thinkers." — **Aurora Online, January 2004**
 
 
 "Michael Parenti is a towering prophetic voice in American life. We need him now more than ever." — **Cornel West**
