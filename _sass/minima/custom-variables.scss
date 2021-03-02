@@ -8,12 +8,13 @@ html, html[data-theme="light"] {
     }
     
     html[data-theme="dark"] {
-        --site-title-color: rgb(0, 0, 0);
-        --background-color: #ffffff;
-        --link-hover-color: rgb(179, 63, 63);
-        --link-visited-color: hsl(0, 48%, 43%);
-        --link-base-color: #000;
-        --site-nav: rgb(0, 0, 0);
+        --site-title-color: #fff;
+        --background-color: #121212;
+        --text-color: #ffffff;
+        --link-hover-color: #c23737;
+        --link-visited-color: #a23939;
+        --link-base-color: #ffffff;
+        --site-nav: #fff;
     }
     
     @media (prefers-color-scheme: dark) {
@@ -28,12 +29,11 @@ html, html[data-theme="light"] {
         }
     
         html[data-theme="light"] {
-            --site-title-color: #fff;
-            --background-color: #121212;
-            --text-color: #ffffff;
-            --link-hover-color: ##c23737;
-            --link-visited-color: #a13838;
-            --link-base-color: #ffffff;
-            --site-nav: #fff;
+            --site-title-color: rgb(0, 0, 0);
+            --background-color: hsl(0, 0%, 100%);
+            --link-hover-color: hsl(0, 48%, 47%);
+            --link-visited-color: hsl(0, 48%, 43%);
+            --link-base-color: #000;
+            --site-nav: rgb(0, 0, 0);
     }
     }

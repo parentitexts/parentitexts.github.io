@@ -2,7 +2,7 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}
-
+  <center><a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a></center>
   <body>
 
     {%- include header.html -%}
@@ -12,7 +12,7 @@
         {{ content }}
       </div>
     </main>
-    <center><a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a></center>
+
     <script src="/scripts/mode-switcher.js"></script>
     {%- include footer.html -%}
 
