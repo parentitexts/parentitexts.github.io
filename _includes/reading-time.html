@@ -2,5 +2,5 @@
 {{ content | number_of_words | minus: 180 }}
 {% endcapture %}
 {% unless words contains '-' %}
-{{ words | plus: 150 | divided_by: 150 | append: ' minutes to read' }}
+<b>Average {{words | plus: 200 | divided_by: 200 | append: ' minutes to read <br>' }}</b>
 {% endunless %}
