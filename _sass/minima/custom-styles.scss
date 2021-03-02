@@ -29,6 +29,11 @@ a:page-link {
   color: var(--site-nav)
 }
 
+a.page-link {
+  color: var(--site-nav)
+}
+}
+
 a:hover {
   color: var(--link-hover-color)
 }
