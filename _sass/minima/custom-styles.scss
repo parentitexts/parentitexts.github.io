@@ -1,0 +1,29 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.site-title {
+  color: var(--site-title-color);
+}
+
+.page-link {
+  color: var(--page-link)
+}
+
+body {
+background-color: var(--background-color);
+color: var(--text-color);
+}
+
+a {
+color: var(--link-base-color);
+}
+
+a:hover {
+  color: var(--link-hover-color)
+}
+
+article {
+max-width: 650px; 
+margin: 2em auto;
+}
+

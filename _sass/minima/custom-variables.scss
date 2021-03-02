@@ -1,0 +1,28 @@
+html, html[data-theme="light"] {
+--site-title-color: #000;
+--background-color: #ffffff;
+--link-hover-color: rgb(179, 63, 63);
+}
+
+html[data-theme="dark"] {
+    --site-title-color: #000;
+    --background-color: #ffffff;
+    --link-hover-color: rgb(179, 63, 63);
+}
+
+
+@media (prefers-color-scheme: dark) {
+    html, html[data-theme="dark"] {
+        --site-title-color: #fff;
+        --background-color: #121212;
+        --text-color: #f1f1f1;
+        --link-hover-color: rgb(179, 63, 63);
+    }
+
+    html[data-theme="light"] {
+        --site-title-color: #fff;
+        --background-color: #121212;
+        --text-color: #f1f1f1;
+        --link-hover-color: rgb(179, 63, 63);
+}
+}
