@@ -5,6 +5,7 @@ html, html[data-theme="light"] {
     --link-visited-color: hsl(0, 48%, 43%);
     --link-base-color: #000;
     --site-nav: rgb(0, 0, 0);
+    --text-color: #000;
     }
     
     html[data-theme="dark"] {
@@ -15,6 +16,7 @@ html, html[data-theme="light"] {
         --link-visited-color: #a23939;
         --link-base-color: #ffffff;
         --site-nav: #fff;
+        --text-color: #fff;
     }
     
     @media (prefers-color-scheme: dark) {
@@ -26,6 +28,7 @@ html, html[data-theme="light"] {
             --link-visited-color: #a23939;
             --link-base-color: #ffffff;
             --site-nav: #fff;
+            --text-color: #fff;
         }
     
         html[data-theme="light"] {
@@ -35,5 +38,6 @@ html, html[data-theme="light"] {
             --link-visited-color: hsl(0, 48%, 43%);
             --link-base-color: #000;
             --site-nav: rgb(0, 0, 0);
+            --text-color: #000;
     }
     }
