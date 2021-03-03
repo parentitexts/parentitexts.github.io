@@ -14,7 +14,8 @@ Source: [http://www.michaelparenti.org/](http://www.michaelparenti.org/)
 
 "Michael Parenti is a towering prophetic voice in American life. We need him now more than ever." — **Cornel West**
 
-"Parenti offers a valuable rebuttal to the drumbeat...from the right." — New York Times Book Review
+"Parenti offers a valuable rebuttal to the drumbeat...from the right." — **New York Times Book Review**
+
 "A penetrating and persuasive writer with an astonishing array of documentation to implement his attacks." — **The Catholic Journalist**
 
 "Michael Parenti is one of the greatest writers that this country has ever produced. As a historian he is a preeminent interpreter of our times. . . . He has an undeniable sense of reality and he speaks with tremendous authority of feeling. What he has offered our world is absolutely extraordinary." — **Justin Desmangles, Chair, Board of Regents, Before Columbus Foundation, 2014.**
