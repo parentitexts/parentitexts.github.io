@@ -4,6 +4,8 @@ title: About Michael Parenti
 permalink: /about/
 ---
 
+Source: [https://www.michael-parenti.org/](https://www.michael-parenti.org/) 
+
 **Michael Parenti is an internationally known award-winning author and lecturer. He is one of the nation’s leading progressive political analysts. His highly informative and entertaining books and talks have reached a wide range of audiences in North America and abroad.**
 
 
